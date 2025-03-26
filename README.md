@@ -50,24 +50,22 @@ This project focuses on developing an **HR Analytics Dashboard** using Power BI 
   - Export the dashboard as a **PDF** for reporting purposes.  
   - Publish it to **Power BI Service** for wider access by team members and stakeholders.  
 
----
+
 ## Benefits to the Organization
 - Helps HR teams identify departments with high attrition rates, enabling targeted interventions.  
 - Improves employee retention strategies by analyzing trends in demographics, tenure, and salary.  
 - Supports data-driven decisions, enhancing overall workforce management.  
 - Ensures data accuracy and integrity through effective cleaning and transformation techniques.
 
----
-## Sample Dashboard Image
-![HR Analytics Dashboard](image.png)
 
----
+
+
 ## Tools and Technologies Used
 - **Power BI** for data visualization and dashboard creation.  
 - **Power Query** for data cleaning and transformation.  
 - **Excel/CSV** for data storage and preparation.
 
----
+
 ## How to Run the Project
 1. Open **Power BI Desktop**.  
 2. Import the dataset into Power BI.  
@@ -76,16 +74,10 @@ This project focuses on developing an **HR Analytics Dashboard** using Power BI 
 5. Add department filters for targeted analysis.  
 6. Export the final dashboard as a PDF or publish it to **Power BI Service**.
 
----
+
 ## Future Enhancements
 - Add predictive analytics for attrition forecasting.  
 - Incorporate drill-through features for deeper insights into employee data.  
 - Develop automated alerts to notify HR teams about critical workforce trends.
 
----
-## Contact
-For any queries, please contact:  
-**Ishwari Kape**  
-**Email:** ishwarikape117@gmail.com  
-**Phone:** +91 7020767689
 
