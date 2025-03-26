@@ -16,7 +16,7 @@ This project focuses on developing an **HR Analytics Dashboard** using Power BI 
 - Implement filters for **department-wise analysis** to identify high-risk areas.  
 - Ensure data accuracy through efficient **data cleaning** and transformation using Power Query.
 
----
+
 ## Features and Functionalities
 ### Dashboard Features
 - **Department Filters:** Allows users to filter data by departments for targeted insights.  
